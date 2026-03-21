@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Webpage</title>
+</head>
+<body>
+
+    <h1>Main Heading</h1>
+
+    <p>
+        This is a sample paragraph using 
+        <b>bold</b>, <i>italic</i>, and <u>underline</u>.
+    </p>
+
+    <hr>
+
+    <ol>
+        <li>Item One</li>
+        <li>Item Two</li>
+        <li>Item Three</li>
+    </ol>
+
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Mango</li>
+    </ul>
+
+</body>
+</html>
