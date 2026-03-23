@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Introduction</title>
+</head>
+<body>
+
+    <h2>Personal Introduction</h2>
+
+    <p>
+        Hello, my name is <b>Poornima</b>. 
+        I am studying <i>Computer Science</i> at 
+        <u>XYZ College</u>.
+    </p>
+
+</body>
+</html>
