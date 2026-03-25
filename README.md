@@ -3,6 +3,6 @@
 2. heading tags 
 3. basic web page
 4. personal introduction html code
-5. daily routine using<br>
-6. favourite subject using <ul>
+5. daily routine using br tags
+6. favourite subject using ul tags
 7. steps to submit assignment 
