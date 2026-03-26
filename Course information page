@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course Information</title>
+</head>
+<body>
+
+<h2>Course Information</h2>
+
+<p>
+    HTML (HyperText Markup Language) is used to create webpages.
+    It structures content like text, images, and links.
+</p>
+
+<hr>
+
+<p>
+    HTML is important because it is the foundation of all websites.
+</p>
+
+</body>
+</html>
