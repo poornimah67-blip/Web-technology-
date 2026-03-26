@@ -5,4 +5,5 @@
 4. personal introduction html code
 5. daily routine using br tags
 6. favourite subject using ul tags
-7. steps to submit assignment 
+7. steps to submit assignment
+8. course information page 
