@@ -7,3 +7,4 @@
 6. favourite subject using ul tags
 7. steps to submit assignment
 8. course information page 
+9. important notice html code 
