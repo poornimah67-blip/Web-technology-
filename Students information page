@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Information</title>
+</head>
+<body>
+
+    <p>
+        My name is John. I am a student who loves learning new technologies and enjoys coding.
+    </p>
+
+    <hr>
+
+    <h3>Hobbies</h3>
+    <ol>
+        <li>Reading</li>
+        <li>Playing Cricket</li>
+        <li>Coding</li>
+    </ol>
+
+    <h3>Favorite Foods</h3>
+    <ul>
+        <li>Pizza</li>
+        <li>Biryani</li>
+        <li>Ice Cream</li>
+    </ul>
+
+</body>
+</html>
