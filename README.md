@@ -9,4 +9,5 @@
 8. course information page 
 9. important notice html code
 10. html code for quote formation 
-11. html code for students information page 
+11. html code for students information page
+12. html code for students registration form 
