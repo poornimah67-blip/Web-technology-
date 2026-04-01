@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Row and Column Example</title>
+</head>
+<body>
+
+<h2>Student Table</h2>
+
+<table border="1">
+    <!-- Row 1 -->
+    <tr>
+        <th>Name</th>   <!-- Column 1 -->
+        <th>Age</th>    <!-- Column 2 -->
+        <th>City</th>   <!-- Column 3 -->
+    </tr>
+
+    <!-- Row 2 -->
+    <tr>
+        <td>Ravi</td>
+        <td>20</td>
+        <td>Bangalore</td>
+    </tr>
+
+    <!-- Row 3 -->
+    <tr>
+        <td>Anu</td>
+        <td>21</td>
+        <td>Mysore</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
