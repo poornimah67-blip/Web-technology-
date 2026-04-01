@@ -1,0 +1,9 @@
+<div class="container">
+    <div class="box">Row 1 - Col 1</div>
+    <div class="box">Row 1 - Col 2</div>
+</div>
+
+<div class="container">
+    <div class="box">Row 2 - Col 1</div>
+    <div class="box">Row 2 - Col 2</div>
+</div>
