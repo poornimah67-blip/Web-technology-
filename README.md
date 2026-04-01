@@ -13,3 +13,4 @@
 12. html code for students registration form 
 13. html code to create simple table (student marks)
 14. html code for basic table (row and column)
+15. html code to display multiple rows
