@@ -14,3 +14,4 @@
 13. html code to create simple table (student marks)
 14. html code for basic table (row and column)
 15. html code to display multiple rows
+16. html code to show temperature and day in a table 
