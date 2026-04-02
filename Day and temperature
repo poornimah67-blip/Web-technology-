@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day and Temperature Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px auto;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2 style="text-align:center;">Day and Temperature</h2>
+
+<table>
+    <tr>
+        <th>Day</th>
+        <th>Temperature (°C)</th>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>31</td>
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td>33</td>
+    </tr>
+</table>
+
+</body>
+</html>
