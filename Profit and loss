@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Profit or Loss</h3>
+
+Cost Price: <input type="number" id="cp"><br><br>
+Selling Price: <input type="number" id="sp"><br><br>
+
+<button onclick="check()">Check</button>
+
+<p id="ans"></p>
+
+<script>
+function check() {
+    var cp = document.getElementById("cp").value;
+    var sp = document.getElementById("sp").value;
+
+    if (sp > cp)
+        document.getElementById("ans").innerHTML = "Profit = " + (sp - cp);
+    else if (cp > sp)
+        document.getElementById("ans").innerHTML = "Loss = " + (cp - sp);
+    else
+        document.getElementById("ans").innerHTML = "No Profit No Loss";
+}
+</script>
+
+</body>
+</html>
