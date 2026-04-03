@@ -1,12 +1,22 @@
-import time
+<!DOCTYPE html>
+<html>
+<body>
 
-print("3")
-time.sleep(1)
+<h3 id="count">3</h3>
 
-print("2")
-time.sleep(1)
+<script>
+let num = 3;
 
-print("1")
-time.sleep(1)
+let timer = setInterval(function() {
+    if (num > 1) {
+        num--;
+        document.getElementById("count").innerHTML = num;
+    } else {
+        clearInterval(timer);
+        document.getElementById("count").innerHTML = "Happy Birthday Panda 🐼";
+    }
+}, 1000);
+</script>
 
-print("Happy Birthday Panda 🐼")
+</body>
+</html>
