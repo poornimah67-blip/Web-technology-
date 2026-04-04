@@ -18,3 +18,4 @@
 17. html code to show student information form
 18. html code to know profit or loss
 19. html code to display happy Birthday 
+20. student details web page 
