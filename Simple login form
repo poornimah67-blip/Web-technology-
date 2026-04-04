@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+</head>
+<body style="font-family: Arial; background-color: #e6f2ff; text-align: center;">
+
+    <h1>Login Page</h1>
+
+    <form onsubmit="return validateForm()">
+        <label>Username:</label><br>
+        <input type="text" id="username"><br><br>
+
+        <label>Password:</label><br>
+        <input type="password" id="password"><br><br>
+
+        <input type="submit" value="Login">
+    </form>
+
+    <script>
+        function validateForm() {
+            var user = document.getElementById("username").value;
+            var pass = document.getElementById("password").value;
+
+            if (user == "" || pass == "") {
+                alert("Please fill all fields!");
+                return false;
+            } else {
+                alert("Login Successful ✅");
+                return true;
+            }
+        }
+    </script>
+
+</body>
+</html>
