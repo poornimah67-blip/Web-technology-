@@ -20,3 +20,4 @@
 19. html code to display happy Birthday 
 20. student details web page
 21. simple login form (HTML+validation)
+22. simple interest html code 
