@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Interest</title>
+</head>
+<body>
+
+<h2>Simple Interest Calculator</h2>
+
+<p>Principal: __________</p>
+<p>Rate: __________</p>
+<p>Time: __________</p>
+
+<p>Formula: SI = (P × R × T) / 100</p>
+
+<p>Result: __________</p>
+
+</body>
+</html>
