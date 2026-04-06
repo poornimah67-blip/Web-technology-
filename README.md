@@ -22,4 +22,5 @@
 21. simple login form (HTML+validation)
 22. simple interest html code
 23. students marks information
-24. student profile page 
+24. student profile page
+25. Simple Grocery List Page
