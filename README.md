@@ -21,4 +21,5 @@
 20. student details web page
 21. simple login form (HTML+validation)
 22. simple interest html code
-23. students marks information 
+23. students marks information
+24. student profile page 
