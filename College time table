@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Timetable</title>
+</head>
+<body>
+
+    <h2 align="center">College Timetable</h2>
+
+    <table border="1" align="center" cellpadding="10">
+
+        <tr>
+            <th>Day</th>
+            <th>9-10</th>
+            <th>10-11</th>
+            <th>11-12</th>
+            <th>12-1</th>
+            <th>2-3</th>
+            <th>3-4</th>
+        </tr>
+
+        <tr>
+            <td>Monday</td>
+            <td>Math</td>
+            <td>Physics</td>
+            <td>C Programming</td>
+            <td rowspan="5">Lunch</td>
+            <td>English</td>
+            <td>Lab</td>
+        </tr>
+
+        <tr>
+            <td>Tuesday</td>
+            <td>Physics</td>
+            <td>Math</td>
+            <td>English</td>
+            <td colspan="2">C Lab</td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>English</td>
+            <td>C Programming</td>
+            <td>Math</td>
+            <td>Physics</td>
+            <td>Sports</td>
+        </tr>
+
+        <tr>
+            <td>Thursday</td>
+            <td>Math</td>
+            <td>English</td>
+            <td>Physics</td>
+            <td colspan="2">Project</td>
+        </tr>
+
+        <tr>
+            <td>Friday</td>
+            <td>Physics</td>
+            <td>Math</td>
+            <td>C Programming</td>
+            <td>English</td>
+            <td>Seminar</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
