@@ -25,4 +25,5 @@
 24. student profile page
 25. Simple Grocery List Page
 26. html code for creating college time table
-27. simple image galary 
+27. simple image galary
+28. student marks table
