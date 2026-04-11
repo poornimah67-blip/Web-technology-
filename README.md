@@ -27,3 +27,4 @@
 26. html code for creating college time table
 27. simple image galary
 28. student marks table
+29. simple registration form 
