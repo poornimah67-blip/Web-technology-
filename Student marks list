@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Marks</title>
+</head>
+<body>
+
+    <h1>Student Marks Table</h1>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Maths</th>
+            <th>Science</th>
+            <th>English</th>
+        </tr>
+
+        <tr>
+            <td>Asha</td>
+            <td>85</td>
+            <td>90</td>
+            <td>88</td>
+        </tr>
+
+        <tr>
+            <td>Ravi</td>
+            <td>78</td>
+            <td>82</td>
+            <td>80</td>
+        </tr>
+
+        <tr>
+            <td>Neha</td>
+            <td>92</td>
+            <td>89</td>
+            <td>95</td>
+        </tr>
+    </table>
+
+</body>
+</html>
