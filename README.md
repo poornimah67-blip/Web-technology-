@@ -28,4 +28,5 @@
 27. simple image galary
 28. student marks table
 29. simple registration form
-30. simple resume page 
+30. simple resume page
+31. restaurant menu page 
