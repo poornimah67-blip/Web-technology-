@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+<body>
+
+    <h1>Poornima H</h1>
+    <p>Email: poornima@email.com</p>
+    <p>Phone: 1234567890</p>
+
+    <h2>Career Objective</h2>
+    <p>To learn and grow in a challenging environment.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>10th - 85%</li>
+        <li>12th - 88%</li>
+        <li>Bachelor Degree - Pursuing</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>C Programming</li>
+        <li>Python</li>
+        <li>HTML</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Music</li>
+        <li>Drawing</li>
+    </ul>
+
+</body>
+</html>
