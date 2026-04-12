@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Menu</title>
+</head>
+<body>
+
+    <h1>Welcome to My Restaurant</h1>
+
+    <h2>Starters</h2>
+    <ul>
+        <li>Soup - ₹50</li>
+        <li>Spring Rolls - ₹80</li>
+    </ul>
+
+    <h2>Main Course</h2>
+    <ul>
+        <li>Fried Rice - ₹120</li>
+        <li>Paneer Curry - ₹150</li>
+    </ul>
+
+    <h2>Desserts</h2>
+    <ul>
+        <li>Ice Cream - ₹60</li>
+        <li>Gulab Jamun - ₹40</li>
+    </ul>
+
+</body>
+</html>
