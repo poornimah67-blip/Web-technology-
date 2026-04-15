@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FAQ Page</title>
+</head>
+<body>
+
+    <h1>Frequently Asked Questions</h1>
+
+    <h3>1. What is HTML?</h3>
+    <p>HTML stands for HyperText Markup Language used to create web pages.</p>
+
+    <h3>2. What is Python?</h3>
+    <p>Python is a programming language used for web, AI, and software development.</p>
+
+    <h3>3. What is C language?</h3>
+    <p>C is a basic programming language used for system programming.</p>
+
+    <h3>4. Why should we learn programming?</h3>
+    <p>Programming helps us solve problems and build applications.</p>
+
+</body>
+</html>
