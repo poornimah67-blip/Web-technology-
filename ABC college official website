@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My College</title>
+</head>
+<body>
+
+    <h1>ABC College</h1>
+
+    <h2>About</h2>
+    <p>This is a sample college webpage.</p>
+
+    <h2>Courses</h2>
+    <ul>
+        <li>CSE</li>
+        <li>ECE</li>
+        <li>MECH</li>
+    </ul>
+
+    <h2>Timetable</h2>
+    <table border="1">
+        <tr>
+            <th>Day</th>
+            <th>Subject</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Math</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>Physics</td>
+        </tr>
+    </table>
+
+    <h2>Contact Us</h2>
+    <form>
+        Name:<br>
+        <input type="text"><br><br>
+
+        Email:<br>
+        <input type="email"><br><br>
+
+        <input type="submit" value="Send">
+    </form>
+
+</body>
+</html>
