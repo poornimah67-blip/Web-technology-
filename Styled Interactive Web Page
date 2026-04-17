@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Styled Page</title>
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+            font-family: Arial;
+        }
+        h1 {
+            color: darkblue;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: darkblue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hello!</h1>
+    <p>This is a styled HTML page.</p>
+
+    <button onclick="changeText()">Click Me</button>
+
+    <p id="demo"></p>
+
+    <script>
+        function changeText() {
+            document.getElementById("demo").innerHTML = "You clicked the button!";
+        }
+    </script>
+
+</body>
+</html>
