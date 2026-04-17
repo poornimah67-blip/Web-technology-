@@ -31,4 +31,5 @@
 30. simple resume page
 31. restaurant menu page
 32. html code for question and answer
-33. ABC college official website html code 
+33. ABC college official website html code
+34.  html code for styled interactive web page 
