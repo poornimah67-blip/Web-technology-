@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Quiz</title>
+</head>
+<body>
+
+    <h2>General Knowledge Quiz</h2>
+
+    <form>
+
+        <p>1. What is the capital of India?</p>
+        <input type="radio" name="q1"> Mumbai<br>
+        <input type="radio" name="q1"> Delhi<br>
+        <input type="radio" name="q1"> Chennai<br><br>
+
+        <p>2. Which language is used for web pages?</p>
+        <input type="radio" name="q2"> C<br>
+        <input type="radio" name="q2"> HTML<br>
+        <input type="radio" name="q2"> Python<br><br>
+
+        <p>3. Which is the largest planet?</p>
+        <input type="radio" name="q3"> Earth<br>
+        <input type="radio" name="q3"> Mars<br>
+        <input type="radio" name="q3"> Jupiter<br><br>
+
+        <p>4. Who invented the computer?</p>
+        <input type="radio" name="q4"> Charles Babbage<br>
+        <input type="radio" name="q4"> Newton<br>
+        <input type="radio" name="q4"> Einstein<br><br>
+
+        <input type="submit" value="Submit Quiz">
+
+    </form>
+
+</body>
+</html>
