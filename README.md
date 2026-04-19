@@ -33,4 +33,4 @@
 32. html code for question and answer
 33. ABC college official website html code
 34.  html code for styled interactive web page 
-35.html quiz page
+35. html quiz page
