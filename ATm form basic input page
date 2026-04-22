@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ATM System</title>
+</head>
+<body>
+
+<h2>ATM Withdrawal Form</h2>
+
+<form>
+    <label>Account Holder Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Enter Amount:</label><br>
+    <input type="number"><br><br>
+
+    <input type="submit" value="Withdraw">
+</form>
+
+</body>
+</html>
