@@ -34,3 +34,4 @@
 33. ABC college official website html code
 34.  html code for styled interactive web page 
 35. html quiz page
+36. html code to  ATM form , basic input page 
