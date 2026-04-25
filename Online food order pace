@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Order Page</title>
+</head>
+<body>
+
+    <h1>Online Food Order</h1>
+
+    <form>
+
+        <h3>Select Food Items:</h3>
+        <input type="checkbox" name="food"> Pizza<br>
+        <input type="checkbox" name="food"> Burger<br>
+        <input type="checkbox" name="food"> Biryani<br>
+        <input type="checkbox" name="food"> Sandwich<br><br>
+
+        <h3>Quantity:</h3>
+        <input type="number" min="1"><br><br>
+
+        <h3>Delivery Details:</h3>
+
+        <label>Name:</label><br>
+        <input type="text" required><br><br>
+
+        <label>Phone:</label><br>
+        <input type="tel" required><br><br>
+
+        <label>Address:</label><br>
+        <textarea rows="4" cols="30" required></textarea><br><br>
+
+        <h3>Payment Method:</h3>
+        <input type="radio" name="payment"> Cash on Delivery<br>
+        <input type="radio" name="payment"> UPI<br>
+        <input type="radio" name="payment"> Card<br><br>
+
+        <button type="submit">Place Order</button>
+        <button type="reset">Cancel</button>
+
+    </form>
+
+</body>
+</html>
