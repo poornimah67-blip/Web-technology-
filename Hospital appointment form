@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hospital Appointment Form</title>
+</head>
+<body>
+
+    <h2>Hospital Appointment Booking</h2>
+
+    <form>
+        <label>Patient Name:</label><br>
+        <input type="text" name="name" placeholder="Enter your name" required><br><br>
+
+        <label>Age:</label><br>
+        <input type="number" name="age" required><br><br>
+
+        <label>Gender:</label><br>
+        <input type="radio" name="gender" required> Male
+        <input type="radio" name="gender"> Female<br><br>
+
+        <label>Phone Number:</label><br>
+        <input type="tel" name="phone" placeholder="Enter phone number" required><br><br>
+
+        <label>Appointment Date:</label><br>
+        <input type="date" name="date" required><br><br>
+
+        <label>Department:</label><br>
+        <select name="department" required>
+            <option>General</option>
+            <option>Cardiology</option>
+            <option>Orthopedic</option>
+            <option>Dermatology</option>
+        </select><br><br>
+
+        <label>Describe Problem:</label><br>
+        <textarea rows="4" cols="30" placeholder="Enter your issue"></textarea><br><br>
+
+        <input type="submit" value="Book Appointment">
+        <input type="reset" value="Clear">
+
+    </form>
+
+</body>
+</html>
