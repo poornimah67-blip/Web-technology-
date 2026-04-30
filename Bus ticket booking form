@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bus Ticket Booking</title>
+</head>
+<body>
+
+    <h2>Bus Ticket Booking Form</h2>
+
+    <form>
+        <label>Passenger Name:</label><br>
+        <input type="text" name="name" required><br><br>
+
+        <label>From:</label><br>
+        <input type="text" name="from" placeholder="Enter starting place" required><br><br>
+
+        <label>To:</label><br>
+        <input type="text" name="to" placeholder="Enter destination" required><br><br>
+
+        <label>Travel Date:</label><br>
+        <input type="date" name="date" required><br><br>
+
+        <label>Number of Tickets:</label><br>
+        <input type="number" name="tickets" min="1" required><br><br>
+
+        <label>Bus Type:</label><br>
+        <select name="bus">
+            <option>AC</option>
+            <option>Non-AC</option>
+            <option>Sleeper</option>
+        </select><br><br>
+
+        <label>Seat Preference:</label><br>
+        <input type="radio" name="seat"> Window
+        <input type="radio" name="seat"> Aisle<br><br>
+
+        <label>Contact Number:</label><br>
+        <input type="tel" name="phone" required><br><br>
+
+        <input type="submit" value="Book Ticket">
+        <input type="reset" value="Clear">
+
+    </form>
+
+</body
